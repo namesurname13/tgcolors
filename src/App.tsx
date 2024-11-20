@@ -5,7 +5,6 @@ function App() {
     <div className="App">
       <div
         style={{
-          height: "10px",
           width: "100%",
           background: "var(--tg-theme-bg-color)",
         }}
@@ -16,7 +15,6 @@ function App() {
       </div>
       <div
         style={{
-          height: "10px",
           width: "100%",
           background: "var(--tg-theme-text-color)",
         }}
@@ -27,7 +25,6 @@ function App() {
       </div>
       <div
         style={{
-          height: "10px",
           width: "100%",
           background: "var(--tg-theme-hint-color)",
         }}
@@ -38,7 +35,6 @@ function App() {
       </div>
       <div
         style={{
-          height: "10px",
           width: "100%",
           background: "var(--tg-theme-link-color)",
         }}
@@ -49,7 +45,6 @@ function App() {
       </div>
       <div
         style={{
-          height: "10px",
           width: "100%",
           background: "var(--tg-theme-button-color)",
         }}
@@ -60,7 +55,6 @@ function App() {
       </div>
       <div
         style={{
-          height: "10px",
           width: "100%",
           background: "var(--tg-theme-button-text-color)",
         }}
@@ -71,7 +65,6 @@ function App() {
       </div>
       <div
         style={{
-          height: "10px",
           width: "100%",
           background: "var(--tg-theme-secondary-bg-color)",
         }}
@@ -82,7 +75,6 @@ function App() {
       </div>
       <div
         style={{
-          height: "10px",
           width: "100%",
           background: "var(--tg-theme-header-bg-color)",
         }}
@@ -93,7 +85,6 @@ function App() {
       </div>
       <div
         style={{
-          height: "10px",
           width: "100%",
           background: "var(--tg-theme-bottom-bar-bg-color)",
         }}
@@ -104,7 +95,6 @@ function App() {
       </div>
       <div
         style={{
-          height: "10px",
           width: "100%",
           background: "var(--tg-theme-accent-text-color)",
         }}
@@ -115,7 +105,6 @@ function App() {
       </div>
       <div
         style={{
-          height: "10px",
           width: "100%",
           background: "var(--tg-theme-section-bg-color)",
         }}
@@ -126,7 +115,6 @@ function App() {
       </div>
       <div
         style={{
-          height: "10px",
           width: "100%",
           background: "var(--tg-theme-section-header-text-color)",
         }}
@@ -137,7 +125,6 @@ function App() {
       </div>
       <div
         style={{
-          height: "10px",
           width: "100%",
           background: "var(--tg-theme-section-separator-color)",
         }}
@@ -148,7 +135,6 @@ function App() {
       </div>
       <div
         style={{
-          height: "10px",
           width: "100%",
           background: "var(--tg-theme-subtitle-text-color)",
         }}
@@ -159,7 +145,6 @@ function App() {
       </div>
       <div
         style={{
-          height: "10px",
           width: "100%",
           background: "var(--tg-theme-destructive-text-color)",
         }}
