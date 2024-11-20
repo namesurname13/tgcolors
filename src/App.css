@@ -1,14 +1,17 @@
 .App {
+  box-sizing: border-box;
   display: flex;
   flex-direction: column;
   gap: 10px;
 }
 
-div {
+.App div {
+  box-sizing: border-box;
   padding: 15px;
 }
 
 .textBlock {
+  padding: 5px !important;
   background-color: black;
 }
 
